@@ -1,0 +1,5 @@
+regime,minPer,pattern,when,utility,minP,maxP,avgP,PHUI,interpretation
+Theta,1,a,i,before,440,1,4,1.6667,true,"minPer>=1 already holds; deletion cannot create AC"
+Theta,1,a,i,after T6:i=0,396,2,4,2.0000,true,"still not an artificial PHUI under Theta"
+Theta_g,2,a,i,before,440,1,4,1.6667,false,"minP=1 < 2 so {a,i} is HUI but not PHUI"
+Theta_g,2,a,i,after T6:i=0,396,2,4,2.0000,true,"minP rises; {a,i} becomes PHUI: AC channel"

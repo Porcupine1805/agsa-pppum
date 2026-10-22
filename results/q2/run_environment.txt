@@ -1,0 +1,14 @@
+timestamp_utc=2026-10-02T05:00:39.072689300Z
+os_name=Windows 11
+os_version=10.0
+os_arch=amd64
+java_version=17.0.20.1
+java_vendor=Microsoft
+java_vm=OpenJDK 64-Bit Server VM
+available_processors=12
+jvm_max_heap_mib=7992.0
+physical_memory_mib=31957.37890625
+project_git_commit=UNAVAILABLE
+ppum_root=
+upstream_git_commit=
+jvm_input_arguments=

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "AGSA-PPPUM: Exact Entry Channels and Guarded PHUI Sanitization"
+message: If you use this software, please cite the accompanying article.
+type: software
+authors:
+  - family-names: Nguyen
+    given-names: Khac Chien
+    email: nkchienster@gmail.com
+  - family-names: Tran
+    given-names: Cong Phat
+    email: trancphat@gmail.com
+license: MIT
+repository-code: https://github.com/Porcupine1805/agsa-pppum

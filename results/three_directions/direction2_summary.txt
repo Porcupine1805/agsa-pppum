@@ -1,0 +1,2 @@
+interior_period_hides=0 interior_U_hides=0 interior_nohide=37 deletion_period_hides=12 deletion_U_hides=0
+best_hide=T6:b->0 loss=7 maxPer+avgPer

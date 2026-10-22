@@ -1,0 +1,40 @@
+{
+  "paper_status": {
+    "OK": 325,
+    "NO_PHUI": 30
+  },
+  "extra_status": {
+    "OK": 420,
+    "NO_PHUI": 84
+  },
+  "friedman": {
+    "n": 8,
+    "statistic": 21.408805031446548,
+    "p": 0.00026271586755171483,
+    "ranks": {
+      "SMAU-PHUI": 4.8125,
+      "SMSE-PHUI": 3.3125,
+      "MU-MAP": 3.375,
+      "AGSA": 1.75,
+      "MPH": 1.75
+    }
+  },
+  "wilcoxon": {
+    "n": 100,
+    "W": 672.0,
+    "p": 6.666304944425409e-09,
+    "MPH_wins": 75,
+    "AGSA_wins": 18,
+    "ties": 7,
+    "AGSA_mean": 0.14150142000000002,
+    "MPH_mean": 0.11755013,
+    "MPH_positive_AC": 11
+  },
+  "stopping": {
+    "pairs": 60,
+    "strict_PHUI_wins": 28,
+    "ties": 32,
+    "PHUI_losses": 0
+  },
+  "validated_table_values": 550
+}
